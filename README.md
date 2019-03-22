@@ -15,8 +15,8 @@ Distribuição Anaconda</a></b>.</p>
 Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o básico, para que você mantenha a "mão-na-massa". Tais roteiros foram pensados para quem nunca programou, ou seja, você poderá partir do zero. ;)</p>
 <p>Está é uma versão inicial dos roteiros, portanto, erros, dicas, comentários, entre outros, entre em contato através deste
 <b><a href="mailto:marciliofoneto@gmail.com">e-mail</a></b>.</p>
-<h6><p><h3>Roteiro I</h3></p>
-<p>Este roteiro busca introduzir os conceitos iniciais de programação e da linguagem Python.</p>
+<p><h3>Roteiro I</h3></p>
+<h6><p>Este roteiro busca introduzir os conceitos iniciais de programação e da linguagem Python.</p>
 <p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
 <p>
   <ul>
@@ -29,9 +29,9 @@ Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o bás
         <li>Tipo float</li>
         <li>...</li>
     </ul>
-</p>
+</p></h6>
 <p><h3>Roteiro II</h3></p>
-<p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
+<h6><p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
 <p>
 <ul>
         <li>Operadores relacionais</li>
@@ -39,9 +39,9 @@ Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o bás
         <li>if/elif</li>
         <li>Operadores Lógicos</li>
     </ul>
-</p>
+</p></h6>
 <p><h3>Roteiro III</h3></p>
-<p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
+<h6><p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
 <p>
 <ul>
   <li>for</li>
