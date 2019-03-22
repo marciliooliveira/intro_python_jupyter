@@ -31,7 +31,7 @@ Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o bás
     </ul>
 </p>
 <p><h3>Roteiro II</h3></p>
-<p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
+<h6><p>Em linhas gerais, são abordados os seguintes conteúdos:</p>
 <p>
 <ul>
         <li>Operadores relacionais</li>
@@ -49,4 +49,4 @@ Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o bás
   <li>for/else</li>
   <li>while/else</li>
 </ul>
-</p>
+</p></h6>
