@@ -46,5 +46,7 @@ Outro detalhe é que os roteiros abordam conceitos de forma direta, desde o bás
 <ul>
   <li>for</li>
   <li>while</li>
+  <li>for/else</li>
+  <li>while/else</li>
 </ul>
 </p>
